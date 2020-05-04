@@ -21,12 +21,13 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 4
   exclude:
     archived: false
     forks: true
     projects:
     # - repo-name
+      - hfcrwx.github.io
 
 # social_media:
   # behance: your_username
