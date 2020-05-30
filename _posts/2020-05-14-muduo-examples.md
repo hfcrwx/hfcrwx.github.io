@@ -37,6 +37,7 @@ published: true
 
     examples/memcached/client/bench.cc //EventLoopThreadPool, QPS, pingpong
     examples/protobuf/rpcbench/client.cc
+    examples/wordcount/hasher.cc
 
 **outstandings_**
 
